@@ -1,0 +1,14 @@
+.filter-container{
+    margin: 10px 20px;
+    display: flex;
+  
+}
+
+input[type="radio"]{
+    margin-left: 10px ;
+}
+
+span{
+    margin-left: 5px
+}
+
